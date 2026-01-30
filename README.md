@@ -1,7 +1,79 @@
 - 👋 Hi, I’m @abidshareef
-- 👉 I’m interested in Adapting new skills ...
-- 💻 I’m currently learning Full Stack Development ..
-- 🌐 I’m looking to collaborate on Hacking projects ...
+-  I build systems that scale and ideas that ship.
+
+I’m an engineer who thinks in **first principles**, designs for **leverage**, and builds for **impact**.  
+I don’t just write code — I design systems that survive reality.
+
+ 🧠 Philosophy
+
+- Simplicity is a feature, not a compromise  
+- Abstractions must earn their existence  
+- Automation beats repetition  
+- Code is temporary, architecture is destiny  
+- If it doesn’t scale, it’s a prototype
+
+⚙️ What I Do
+
+- Design and build scalable backend systems
+- Architect clean, maintainable software
+- Turn vague ideas into production-ready products
+- Automate workflows and eliminate inefficiency
+- Think deeply about tradeoffs (then choose fast)
+
+🛠️ Tech Stack (tools change, principles don’t)
+
+**Languages:**  
+Python, JavaScript, TypeScript, Go, SQL
+
+**Backend:**  
+Node.js, FastAPI, Django, REST, GraphQL
+
+**Frontend:**  
+React, Next.js, TailwindCSS
+
+**Infra / DevOps:**  
+Docker, Linux, CI/CD, Nginx, Cloud (AWS/GCP), Terraform
+
+**Data:**  
+PostgreSQL, Redis, MongoDB
+
+**Mindset:**  
+Systems thinking, first principles, ruthless prioritization
+
+🚀 Current Focus
+
+- Building high-leverage software
+- Designing resilient architectures
+- Exploring AI-driven systems
+- Compounding skills that matter long-term
+
+ 📈 How I Measure Progress
+
+- Less code, more capability
+- Fewer bugs, clearer systems
+- Faster execution, better decisions
+- Real users, real impact
+
+ 🤝 Collaboration
+
+I enjoy working with people who:
+- Think clearly
+- Ship consistently
+- Respect craft
+- Hate waste
+
+If that’s you, we’ll get along.
+
+📫 Contact
+
+- GitHub: you’re already here
+- Email: (mohdabidullahshareef@gmail.com)
+- LinkedIn: www.linkedin.com/in/abid-shareef-------
+
+---
+
+> “The goal is not to be busy. The goal is to be effective.”
+
 - ✉️ How to reach me mohdabidullahshareef@gmail.com ...
 
 <!---
