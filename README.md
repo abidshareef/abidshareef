@@ -23,16 +23,16 @@ I don’t just write code — I design systems that survive reality.
 🛠️ Tech Stack (tools change, principles don’t)
 
 **Languages:**  
-Python, JavaScript, TypeScript, Go, SQL
+Python, Java , C++ , SQL 
 
 **Backend:**  
 Node.js, FastAPI, Django, REST, GraphQL
 
 **Frontend:**  
-React, Next.js, TailwindCSS
+React, Next.js, TailwindCSS,HTML5,CSS3,JS
 
 **Infra / DevOps:**  
-Docker, Linux, CI/CD, Nginx, Cloud (AWS/GCP), Terraform
+Docker, Linux, CI/CD, Cloud (AWS/GCP)
 
 **Data:**  
 PostgreSQL, Redis, MongoDB
@@ -67,7 +67,6 @@ If that’s you, we’ll get along.
 📫 Contact
 
 - GitHub: you’re already here
-- Email: (mohdabidullahshareef@gmail.com)
 - LinkedIn: www.linkedin.com/in/abid-shareef-------
 
 ---
