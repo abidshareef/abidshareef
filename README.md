@@ -67,7 +67,7 @@ If that’s you, we’ll get along.
 📫 Contact
 
 - GitHub: you’re already here
-- LinkedIn: www.linkedin.com/in/abid-shareef-------
+- LinkedIn: www.linkedin.com/in/abidshareef
 
 ---
 
