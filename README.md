@@ -299,16 +299,24 @@ Certificate ID: 2026H2S06BAH-P22822
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abidshareef&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=06B6D4&text_color=C9D1D9&rank_icon=github" height="170" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abidshareef&show_icons=true&hide_border=true&theme=dark&title_color=22D3EE&icon_color=06B6D4&text_color=C9D1D9&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=abidshareef&show_icons=true&hide_border=true&theme=default&title_color=0891B2&icon_color=0891B2&text_color=1F2937&rank_icon=github" height="170" alt="GitHub statistics" />
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abidshareef&theme=github-dark-blue&hide_border=true&background=0D1117&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE" height="170" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=abidshareef&theme=github-dark-blue&hide_border=true&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abidshareef&theme=default&hide_border=true&ring=0891B2&fire=06B6D4&currStreakLabel=0891B2" height="170" alt="GitHub streak" />
+</picture>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidshareef&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=10" height="170" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abidshareef&layout=compact&hide_border=true&theme=dark&title_color=22D3EE&text_color=C9D1D9&langs_count=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidshareef&layout=compact&hide_border=true&theme=default&title_color=0891B2&text_color=1F2937&langs_count=10" height="170" alt="Top languages" />
+</picture>
 
 </div>
-
 ---
 
 # GitHub Trophies
