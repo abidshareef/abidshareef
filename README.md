@@ -2,26 +2,26 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:4F46E5,50:7C3AED,100:312E81&text=MOHD%20ABIDULLAH%20SHAREEF&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=AI%2FML%20%7C%20Software%20Engineering%20%7C%20Intelligent%20Systems&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0891B2,50:06B6D4,100:164E63&text=MOHD%20ABIDULLAH%20SHAREEF&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=AI%2FML%20%7C%20Software%20Engineering%20%7C%20Intelligent%20Systems&descAlignY=58&descSize=16" width="100%" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Building+AI+systems+that+solve+real+problems;Engineering+with+Python%2C+FastAPI%2C+React%2C+SQL+%26+ML;Edge+AI+%7C+Agentic+Systems+%7C+Data+%7C+Robotics;From+research+idea+to+working+prototype" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+AI+systems+that+solve+real+problems;Engineering+with+Python%2C+FastAPI%2C+React%2C+SQL+%26+ML;Edge+AI+%7C+Agentic+Systems+%7C+Data+%7C+Robotics;From+research+idea+to+working+prototype" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Computer%20Science-AI%20%26%20ML-6366F1?style=for-the-badge&labelColor=111827" />
-<img src="https://img.shields.io/badge/MJCET-Engineering-7C3AED?style=for-the-badge&labelColor=111827" />
-<img src="https://img.shields.io/badge/Hyderabad-India-4F46E5?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/Computer%20Science-AI%20%26%20ML-06B6D4?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/Osmania%20University-Engineering-06B6D4?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/Hyderabad-India-0891B2?style=for-the-badge&labelColor=111827" />
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/abidshareef"><img src="https://img.shields.io/badge/LinkedIn-abidshareef-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mohdabidullahshareef@gmail.com"><img src="https://img.shields.io/badge/Email-mohdabidullahshareef%40gmail.com-7C3AED?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="mailto:mohdabidullahshareef@gmail.com"><img src="https://img.shields.io/badge/Email-mohdabidullahshareef%40gmail.com-06B6D4?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/abidshareef"><img src="https://img.shields.io/badge/GitHub-abidshareef-111827?style=flat-square&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=abidshareef&style=flat-square&color=6366F1&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=abidshareef&style=flat-square&color=06B6D4&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -52,13 +52,22 @@ My approach is simple:
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,sql,html,css&perline=8" />
+<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="52" />
+<img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" width="52" />
+<img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" width="52" />
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="52" />
+<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" width="52" />
+<img src="https://skillicons.dev/icons?i=sql" title="SQL" alt="SQL" width="52" />
+<img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" width="52" />
+<img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="52" />
 </p>
 
 ### AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=8" />
+<img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" alt="PyTorch" width="52" />
+<img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" alt="TensorFlow" width="52" />
+<img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn" alt="Scikit-learn" width="52" />
 </p>
 
 **Core:** Machine Learning · Deep Learning · NLP · Computer Vision · Time-Series Modeling · Agentic AI · Data Science · Model Evaluation · Edge AI
@@ -66,19 +75,33 @@ My approach is simple:
 ### Backend / Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,redis&perline=8" />
+<img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" width="52" />
+<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="52" />
+<img src="https://skillicons.dev/icons?i=express" title="Express.js" alt="Express.js" width="52" />
+<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="52" />
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="52" />
+<img src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" width="52" />
 </p>
 
 ### Frontend / Product
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite&perline=8" />
+<img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="52" />
+<img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" width="52" />
+<img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" width="52" />
+<img src="https://skillicons.dev/icons?i=threejs" title="Three.js" alt="Three.js" width="52" />
+<img src="https://skillicons.dev/icons?i=vite" title="Vite" alt="Vite" width="52" />
 </p>
 
 ### Infrastructure / Tooling
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,aws&perline=8" />
+<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="52" />
+<img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="52" />
+<img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="52" />
+<img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" width="52" />
+<img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" width="52" />
+<img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="52" />
 </p>
 
 ---
@@ -276,13 +299,13 @@ Certificate ID: 2026H2S06BAH-P22822
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abidshareef&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=abidshareef&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=06B6D4&text_color=C9D1D9&rank_icon=github" height="170" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abidshareef&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abidshareef&theme=github-dark-blue&hide_border=true&background=0D1117&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE" height="170" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidshareef&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=10" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidshareef&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=10" height="170" />
 
 </div>
 
@@ -292,7 +315,10 @@ Certificate ID: 2026H2S06BAH-P22822
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abidshareef&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=abidshareef&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=abidshareef&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub trophies" />
+</picture>
 
 </div>
 
@@ -302,7 +328,10 @@ Certificate ID: 2026H2S06BAH-P22822
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abidshareef&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=6366F1&area=true&hide_border=true" width="100%" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abidshareef&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=06B6D4&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abidshareef&bg_color=FFFFFF&color=374151&line=0891B2&point=06B6D4&area=true&hide_border=true" width="100%" alt="GitHub contribution activity" />
+</picture>
 
 </div>
 
@@ -312,7 +341,10 @@ Certificate ID: 2026H2S06BAH-P22822
 
 <div align="center">
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abidshareef/abidshareef/output/github-contribution-grid-snake-dark.svg" />
 <img src="https://raw.githubusercontent.com/abidshareef/abidshareef/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+</picture>
 
 </div>
 
@@ -378,6 +410,6 @@ open_to:
 
 **Build systems. Solve hard problems. Ship what matters.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:312E81,50:7C3AED,100:4F46E5" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:164E63,50:06B6D4,100:0891B2" width="100%" />
 
 </div>
