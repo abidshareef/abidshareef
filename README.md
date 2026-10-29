@@ -317,46 +317,6 @@ Certificate ID: 2026H2S06BAH-P22822
 </picture>
 
 </div>
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=abidshareef&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
-<img src="https://github-profile-trophy.vercel.app/?username=abidshareef&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub trophies" />
-</picture>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abidshareef&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=06B6D4&area=true&hide_border=true" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abidshareef&bg_color=FFFFFF&color=374151&line=0891B2&point=06B6D4&area=true&hide_border=true" width="100%" alt="GitHub contribution activity" />
-</picture>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abidshareef/abidshareef/output/github-contribution-grid-snake-dark.svg" />
-<img src="https://raw.githubusercontent.com/abidshareef/abidshareef/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-</picture>
-
-</div>
-
----
 
 # Current Focus
 
